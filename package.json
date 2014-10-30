@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Matheus Guilarducci <mguilarducci@gmail.com>",
-  "description": "A simple helpful robot for your Company",
+  "description": "A simple helpful robot for Posterizing",
   "dependencies": {
     "hubot": "^2.9.3",
     "hubot-diagnostics": "0.0.1",
